@@ -34,9 +34,9 @@ I have hands-on experience with **AWS, Terraform, Docker, Kubernetes, and Ansibl
 
 ## 📬 Let's Connect!  
 
-🌐 **Personal Website**: [praveenaws.online](https://www.praveenaws.online) *(Update with your actual website if available)*  
+🌐 **Personal Website**: [praveenaws.online](https://www.praveenaws.online) 
 
-💼 **LinkedIn**: [Praveen Kumar]([https://www.linkedin.com/in/praveen-kumar/](https://www.linkedin.com/in/praveen-kumar-2b30a2349) 
+💼 **LinkedIn**: [Praveen Kumar](https://www.linkedin.com/in/praveen-kumar-2b30a2349) 
 
 📧 **Email**: [praveenkumargoud1@outlook.com](mailto:praveenkumargoud1@outlook.com)  
 
