@@ -8,9 +8,9 @@ I specialize in **DevOps, Cloud Engineering, and Infrastructure Automation**, en
 
 I have hands-on experience with **AWS, Terraform, Docker, Kubernetes, and Ansible**, working on projects that deepen my understanding of **cloud automation and scalable infrastructure**. I believe the best way to learn is by **building real-world solutions, debugging, and continuous improvement**.
 
-## 🚀 Fun Projects I'm Working On  
+## 🚀 Projects I'm Working On  
 
-- **[AWS Cloud Resume Challenge](https://github.com/PraveenKumar8919/Terraform-AWS-EKS)**: Building a 3-Tier application using **Terraform, CI/CD pipelines, AWS Lambda, and API Gateway**, focusing on scalability and automation.   
+- **[Automated 3-Tier Deployment on AWS](https://github.com/PraveenKumar8919/Terraform-AWS-EKS)**: Building a 3-Tier application using **Terraform, CI/CD pipelines, AWS Lambda, and API Gateway**, focusing on scalability and automation.   
 
 ## 🔧 Skills  
 
@@ -36,25 +36,9 @@ I have hands-on experience with **AWS, Terraform, Docker, Kubernetes, and Ansibl
 
 🌐 **Personal Website**: [praveenkumar.com](https://www.praveenaws.online) *(Update with your actual website if available)*  
 
-💼 **LinkedIn**: [Praveen Kumar](https://www.linkedin.com/in/praveen-kumar/)  
+💼 **LinkedIn**: [Praveen Kumar]([https://www.linkedin.com/in/praveen-kumar/](https://www.linkedin.com/in/praveen-kumar-2b30a2349)  
 
-📧 **Email**: [your-email@example.com](mailto:praveenkumargoud1@outlook.com)  
+📧 **Email**: [praveenkumargoud1@outlook.com](mailto:praveenkumargoud1@outlook.com)  
 
 📌 Feel free to explore my repositories and connect with me! 🚀😊  
 
-<!---
-PraveenKumar/PraveenKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
